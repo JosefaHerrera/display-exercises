@@ -1,19 +1,71 @@
-body{
-
-	font-family: 'Lato', sans-serif;
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
-.caja{
-	background-color: yellow;
-	color:black;
-	padding: 20px;
-	margin: 0 ;
-	display: inline-block;
-	box-sizing: border-box;
-	width: 197px;
-
+.container1{
+    /*estilos generales*/
+    background-color: pink;
+    color: whitesmoke;
+    font-size: 40px;
+    /*proximos conceptos*/
+    display: inline-block;
+    /*modelo de caja*/
+    width: 80px;
+    height: 80px;
+    padding: 20px;
+    margin: 20px;
 }
 
-.caja#es {
-	background-color: red;
+.container2 span{
+    /*estilos generales*/
+    background-color: pink;
+    color: whitesmoke;
+    font-size: 40px;
+    /*proximos conceptos*/
+    display: inline-block;
+    /*modelo de caja*/
+    width: 80px;
+    height: 80px;
+    padding: 20px;
+    margin: 20px;
 }
+
+/*tres box*/
+.container3 {
+    width: 510px;
+    background-color: black;
+    margin-bottom: 20px;
+}
+/*para todo span que este dentro del container
+Content box*/
+.container3 span {
+    /*estilos generales*/
+    background-color: pink;
+    color: whitesmoke;
+    font-size: 40px;
+    /*proximos conceptos*/
+    display: inline-block;
+    /*modelo de caja*/
+    width: 80px;
+    height: 80px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.container1final{
+    /*estilos generales*/
+    background-color: pink;
+    color: whitesmoke;
+    font-size: 40px;
+    /*proximos conceptos*/
+    display: inline-block;
+    /*modelo de caja*/
+    width: 80px;
+    height: 80px;
+    padding: 20px;
+    margin: 20px;
+}
+
+
+
+
