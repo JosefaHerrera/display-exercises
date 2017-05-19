@@ -3,16 +3,14 @@ body{
 	font-family: 'Lato', sans-serif;
 }
 
-
-
-
 .caja{
 	background-color: yellow;
 	color:black;
-	padding: 3px;
+	padding: 20px;
+	margin: 0 ;
 	display: inline-block;
 	box-sizing: border-box;
-	
+	width: 197px;
 
 }
 
