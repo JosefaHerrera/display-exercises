@@ -9,11 +9,10 @@ body{
 .caja{
 	background-color: yellow;
 	color:black;
-	padding: 20px;
-	margin: 4 ;
-	display: block;
+	padding: 3px;
+	display: inline-block;
 	box-sizing: border-box;
-	width: 197px;
+	
 
 }
 
